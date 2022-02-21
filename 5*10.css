@@ -1,0 +1,17 @@
+body{
+  margin: 0px;
+}
+
+.black {
+  width:10%;
+  height: 144px;
+  background-color: #000000;
+  float: left;
+}
+
+.white {
+  width: 10%;
+  height: 144px;
+  background-color: #ffffff;
+  float: left;
+}
